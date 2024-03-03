@@ -1,1 +1,1 @@
-# QuizMaster-Project
+# QuizMaster
